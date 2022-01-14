@@ -1,3 +1,4 @@
 document.querySelector("#submit").onclick = function() {
-    alert(text.value)
-}
+document.querySelector('#submit').onclick = function() {
+    alert(text.value);
+};
